@@ -1,0 +1,17 @@
+info face="方正艺黑简体" size=42 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=4 padding=3,3,3,3 spacing=3,3 outline=0
+common lineHeight=42 base=34 scaleW=1024 scaleH=1024 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="shuzi2_0.png"
+chars count=13
+char id=-1   x=328   y=0     width=6     height=7     xoffset=-3    yoffset=38    xadvance=0     page=0  chnl=15
+char id=43   x=270   y=0     width=26    height=26    xoffset=-2    yoffset=12    xadvance=21    page=0  chnl=15
+char id=45   x=299   y=0     width=26    height=12    xoffset=-2    yoffset=19    xadvance=21    page=0  chnl=15
+char id=48   x=0     y=0     width=26    height=33    xoffset=-3    yoffset=5     xadvance=20    page=0  chnl=15
+char id=49   x=250   y=0     width=17    height=32    xoffset=-3    yoffset=5     xadvance=13    page=0  chnl=15
+char id=50   x=223   y=0     width=24    height=32    xoffset=-2    yoffset=5     xadvance=20    page=0  chnl=15
+char id=51   x=85    y=0     width=24    height=33    xoffset=-2    yoffset=5     xadvance=20    page=0  chnl=15
+char id=52   x=166   y=0     width=26    height=32    xoffset=-3    yoffset=5     xadvance=20    page=0  chnl=15
+char id=53   x=112   y=0     width=24    height=33    xoffset=-2    yoffset=5     xadvance=20    page=0  chnl=15
+char id=54   x=29    y=0     width=25    height=33    xoffset=-2    yoffset=5     xadvance=20    page=0  chnl=15
+char id=55   x=195   y=0     width=25    height=32    xoffset=-3    yoffset=5     xadvance=19    page=0  chnl=15
+char id=56   x=139   y=0     width=24    height=33    xoffset=-2    yoffset=5     xadvance=20    page=0  chnl=15
+char id=57   x=57    y=0     width=25    height=33    xoffset=-2    yoffset=5     xadvance=20    page=0  chnl=15
